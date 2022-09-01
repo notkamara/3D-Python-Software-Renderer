@@ -1,2 +1,2 @@
 # 3D-Python-Software-Renderer
-3D Python Software Renderer using Pygame in Python 2
+3D Software Renderer using Pygame in Python 2
